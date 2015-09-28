@@ -17,6 +17,7 @@
 #include <stdint.h>
 #include <vector>
 #include <fstream>
+#include <cstring>
 
 enum KeyValueDataType
 {
